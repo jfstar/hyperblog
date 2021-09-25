@@ -99,7 +99,5 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 * Comenta a otros sobre este proyecto 📢
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Da las gracias públicamente 🤓.
-* Da las gracias públicamente 🤓.
-* Da las gracias públicamente 🤓.
+* Se agradece el esfuerzo realizado 🤓.
+* Mucho esfuerzo por parte de todo el equipo 🤓.
