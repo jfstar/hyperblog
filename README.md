@@ -101,3 +101,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Se agradece el esfuerzo realizado 🤓.
 * Mucho esfuerzo por parte de todo el equipo 🤓.
+* Genial
